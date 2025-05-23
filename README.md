@@ -25,8 +25,14 @@ This report helps the Bank understands their customers better. So that they get 
 - Retained customers are 80% and churned customers are 20%.
 - 52 - 56 age group exhibits more churn rate, i.e. 60 to 70% Rate of Churn.
 - In total customers, there are 70% customers are credit card holders.
-- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-- More than 90% of the products delivered
+- 0.6% of customers have bought all the products offered by the bank.
+- 6.5% of customers are categorized as top-performing clients.
+  ## Final Conclusion:
+- Offer free financial planning tools, webinars, or one-on-one consultations and Position the bank as a partner in their financial journey.
+- Offer exclusive benefits like priority service to senior citizens.
+- Design programs that reward tenure, product usage, or referrals.
+
+
 
 
 
