@@ -12,7 +12,15 @@ This report helps the Bank understands their customers better. So that they get 
 - What is the number of top-performing customers?
 - Trends in customer churn and retention over time.
 - Number of products sold by month and category?
-  
+  ## Process
+- Get the business requirement document and understand the business objective and Data.
+- Collect the data in different formats.
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Create the relation ships between the tables.Data modelling was done.
+- 
+- 
+
 
 
 
