@@ -21,6 +21,14 @@ This report helps the Bank understands their customers better. So that they get 
 - Create UI Report and Enhance the Report by Dax and Measures.
 - Create RLS and workspace.
 - Publish the Report to the workspace and give Access to the workspace.
+  ## Project Insight
+- Retained customers are 80% and churned customers are 20%.
+- 52 - 56 age group exhibits more churn rate, i.e. 60 to 70% Rate of Churn.
+- In total customers, there are 70% customers are credit card holders.
+- The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
+- More than 90% of the products delivered
+
+
 
 
 
