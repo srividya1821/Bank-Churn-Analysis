@@ -19,7 +19,8 @@ This report helps the Bank understands their customers better. So that they get 
 - Make sure data is consistent and clean with respect to data type, data format and values used.
 - Create the relation ships between the tables.Data modelling was done.
 - Create UI Report and Enhance the Report by Dax and Measures.
-- Create RLS 
+- Create RLS and workspace.
+- Publish the Report to the workspace and give Access to the workspace.
 
 
 
