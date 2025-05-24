@@ -1,7 +1,8 @@
 # Bank-Churn-Analysis
 This project analyzes customer behavior and account data to uncover insights into why clients discontinue their banking services, enabling proactive retention strategies.
 
-## Link: https://app.fabric.microsoft.com/groups/085e75f0-cf4b-46b9-acb3-937c9ee60bf8/reports/080fb7be-3a68-4643-9bd0-91c2790f9607/3f0a3cdd1e42826a0020?bookmarkGuid=60321b99-fe6e-446f-8a34-375eab872bca&bookmarkUsage=1&ctid=88f944d0-1278-45f9-88d8-dc81b5f77b17&portalSessionId=cab3473c-b4f2-4683-9da7-76a367187a9b&fromEntryPoint=export
+## Link: 
+https://app.fabric.microsoft.com/reportEmbed?reportId=080fb7be-3a68-4643-9bd0-91c2790f9607&autoAuth=true&ctid=88f944d0-1278-45f9-88d8-dc81b5f77b17
 ## Problem Statement
 This report helps the Bank understands their customers better. So that they get to know their improvement area  like Personalised Loyalty Programs and Retention Campaigns  etc.
 ## Questions (KPIs)
