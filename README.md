@@ -27,7 +27,7 @@ This report helps the Bank understands their customers better. So that they get 
 - In total customers, there are 70% customers are credit card holders.
 - 0.6% of customers have bought all the products offered by the bank.
 - 6.5% of customers are categorized as top-performing clients.
-  
+  ![bank_churn_Summary](https://github.com/user-attachments/assets/a6bcec9c-b00e-4c37-b343-ca4206480667)
   ## Final Conclusion:
 - Offer free financial planning tools, webinars, or one-on-one consultations and Position the bank as a partner in their financial journey.
 - Offer exclusive benefits like priority service to senior citizens.
