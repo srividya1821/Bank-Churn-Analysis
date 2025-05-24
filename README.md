@@ -10,7 +10,7 @@ This report helps the Bank understands their customers better. So that they get 
 - What is the customer count for the highest products sold?
 - What is the number of top-performing customers?
 - Trends in customer churn and retention over time.
-- Number of products sold by month and category?
+- Number of products sold by month and category.
   ## Process
 - Get the business requirement document and understand the business objective and Data.
 - Collect the data in different formats.
@@ -22,7 +22,7 @@ This report helps the Bank understands their customers better. So that they get 
 - Publish the Report to the workspace and give Access to the workspace.
   ## Project Insight
 - Retained customers are 80% and churned customers are 20%.
-- 52 - 56 age group exhibits more churn rate, i.e. 60 to 70% Rate of Churn.
+- 52 - 56 age group exhibits more churn rate.
 - In total customers, there are 70% customers are credit card holders.
 - 0.6% of customers have bought all the products offered by the bank.
 - 6.5% of customers are categorized as top-performing clients.
